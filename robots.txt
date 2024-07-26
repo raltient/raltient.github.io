@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raltient.github.io/sitemap.html.gz
+Sitemap: https://raltient.github.io/app/sitemap.html.gz
+Sitemap: https://raltient.github.io/assets/sitemap.html.gz
+Sitemap: https://raltient.github.io/css/sitemap.html.gz
+Sitemap: https://raltient.github.io/includes/sitemap.html.gz
+Sitemap: https://raltient.github.io/item/sitemap.html.gz
+Sitemap: https://raltient.github.io/src/sitemap.html.gz
